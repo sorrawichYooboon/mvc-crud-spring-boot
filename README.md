@@ -50,9 +50,9 @@ src/
 ### Running the Application
 
 1.Run the application using Maven:
-    ```bash
-    mvn spring-boot:run
-     ```
+   ```bash
+   mvn spring-boot:run
+   ```
 
 ## Endpoints
 
