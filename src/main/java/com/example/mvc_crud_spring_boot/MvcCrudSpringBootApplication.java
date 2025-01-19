@@ -14,11 +14,3 @@ public class MvcCrudSpringBootApplication {
 
 }
 
-@RestController
-class HelloController {
-	@GetMapping("/")
-	public String hello() {
-		return "Hello World!";
-	}
-}
-
